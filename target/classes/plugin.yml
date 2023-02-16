@@ -1,0 +1,5 @@
+name: MultiAccount
+version: 1.0
+author: htx1
+description: Plugin to check if player is using a second account
+main: de.htx1.multiaccount.MultiAccount

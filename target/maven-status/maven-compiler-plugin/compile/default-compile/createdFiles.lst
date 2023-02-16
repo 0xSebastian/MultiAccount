@@ -1,0 +1,6 @@
+de\htx1\multiaccount\listeners\PlayerJoinListener.class
+de\htx1\multiaccount\utils\UUIDFetcher.class
+de\htx1\multiaccount\handlers\AccountHandler.class
+de\htx1\multiaccount\MultiAccount.class
+de\htx1\multiaccount\utils\PlayerUUID.class
+de\htx1\multiaccount\utils\Config.class
